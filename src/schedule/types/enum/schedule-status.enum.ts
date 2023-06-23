@@ -1,0 +1,7 @@
+export enum ScheduleStatus {
+  PENDING = "PENDING",
+  APPROVED = "APPROVED",
+  DECLINED = "DECLINED",
+  RESCHEDULED = "RESCHEDULED",
+  OUTDATED = "OUTDATED",
+}
